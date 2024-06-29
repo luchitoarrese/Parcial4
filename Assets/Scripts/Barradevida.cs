@@ -9,7 +9,7 @@ public class Barradevida : MonoBehaviour
 
     private Slider slider;
 
-
+    
     private void Start()
     {
         slider = GetComponent<Slider>();
